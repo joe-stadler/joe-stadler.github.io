@@ -11,10 +11,10 @@ published: false # set to true once filled in, then set impressum_path: /impress
 **Angaben gemäß § 5 DDG**
 
 Jochen Stadler
-[Street and number]
-[Postcode and city]
-[Country]
+ESO Headquarters
+Karl-Schwarzschild-Str. 2
+85748 Garching bei München
 
 **Kontakt**
 
-E-Mail: [your email address]
+E-Mail: jochen.stadler[at]eso.org
