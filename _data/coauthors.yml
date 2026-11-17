@@ -1,0 +1,6 @@
+# Co-author links. The key is the lower-cased last name without accents.
+# Example:
+# "doe":
+#   - firstname: ["Jane", "J."]
+#     url: https://example.org
+{}

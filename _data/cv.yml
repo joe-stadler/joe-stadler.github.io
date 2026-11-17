@@ -1,0 +1,19 @@
+cv:
+  name: Jochen Stadler
+  label: Astronomer
+  image: ""
+  summary: Astronomer working on planet formation with ALMA.
+
+  social_networks:
+    - network: GitHub
+      username: joe-stadler
+
+  # Add Education, Experience, Awards etc. here. Copy the format from the
+  # al-folio documentation (docs/CUSTOMIZE.md, "Modifying the CV information").
+  sections:
+    Skills:
+      - name: Research
+        keywords:
+          - planet formation
+          - protoplanetary discs
+          - ALMA
