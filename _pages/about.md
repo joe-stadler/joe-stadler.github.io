@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Jochen Stadler, a postdoctoral fellow at the [European Southern Observatory](https://www.eso.org/) (ESO) in Garching near Munich. I study how planets form. With [ALMA](https://www.almaobservatory.org/) I observe the gas in the discs around young stars, and I follow the motion of molecular gas to look for the subtle signs that young planets leave in their birth discs. I'm also interested in how the kinematics and the chemistry of these discs fit together.
+I'm Joe, a postdoctoral fellow at the [European Southern Observatory](https://www.eso.org/) (ESO) in Garching near Munich. I study how planets form. With [ALMA](https://www.almaobservatory.org/) I observe the gas and dust in the disks around newborn stars, and I follow the motion of molecular gas to look for the subtle signs that young planets leave in their birth disks. I'm also interested in how the kinematics and the chemistry of these disks fit together.
 
-I did my PhD at the Observatoire de la Côte d'Azur in Nice with Myriam Benisty (2022–2025), after studying physics at Heidelberg University. I'm part of the exoALMA collaboration, where I co-led the kinematics analysis team, and of the CHEER ALMA Large Program on Herbig discs.
+I did my PhD at the Observatoire de la Côte d'Azur in Nice with Myriam Benisty (2022–2025), after studying physics at Heidelberg University. I'm part of the [exoALMA](https://www.exoalma.com) collaboration, where I co-led the kinematics analysis team, and of the CHEER ALMA Large Program on the chemistry of Herbig disks.
 
 Beyond research, I give planetarium shows at the ESO Supernova and I'm part of Astronomers for Planet Earth. You can find my [publications]({{ '/publications/' | relative_url }}), my [CV]({{ '/cv/' | relative_url }}) and my [outreach]({{ '/outreach/' | relative_url }}) activities on this site.
