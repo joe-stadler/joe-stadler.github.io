@@ -1,19 +1,123 @@
 cv:
   name: Jochen Stadler
-  label: Astronomer
+  label: Postdoctoral Fellow, European Southern Observatory (ESO)
+  location: Garching bei München, Germany
   image: ""
-  summary: Astronomer working on planet formation with ALMA.
+  summary: Astronomer working on planet formation with ALMA. I study the kinematics and chemistry of planet-forming discs to find young planets in the making. My full list of papers is on the publications page.
 
   social_networks:
     - network: GitHub
       username: joe-stadler
 
-  # Add Education, Experience, Awards etc. here. Copy the format from the
-  # al-folio documentation (docs/CUSTOMIZE.md, "Modifying the CV information").
   sections:
+    Education:
+      - institution: Observatoire de la Côte d'Azur (OCA)
+        location: Nice, France
+        area: Astrophysics
+        studyType: PhD
+        start_date: 2022-04
+        end_date: 2025-09
+        highlights:
+          - "Advisor: Dr. Myriam Benisty"
+          - "Thesis: The Dynamics of Planet Formation: Unveiling the complex gas kinematics of protoplanetary disks to hunt for protoplanets in formation"
+
+      - institution: Universität Heidelberg
+        location: Heidelberg, Germany
+        area: Physics
+        studyType: M.Sc.
+        start_date: 2019-10
+        end_date: 2021-11
+        highlights:
+          - "Final grade: 1.2 (German scale, 1.0 is best)"
+          - "Courses included theoretical astrophysics, principles of radio astronomy, seminar on extrasolar planets, radiative transfer in the atmosphere"
+
+      - institution: Universität Heidelberg
+        location: Heidelberg, Germany
+        area: Physics
+        studyType: B.Sc.
+        start_date: 2015-10
+        end_date: 2019-07
+        highlights:
+          - "Final grade: 1.6 (German scale, 1.0 is best)"
+          - "Degree covering all areas of physics, with a focus on theoretical physics and a specialization in astronomy and astrophysics"
+
+    Experience:
+      - company: European Southern Observatory (ESO)
+        position: Postdoctoral Fellow
+        location: Garching bei München, Germany
+        start_date: 2025-11
+        highlights:
+          - Investigating the interplay between the kinematics and chemistry of planet-forming discs with ALMA via molecular lines
+          - Part of the CHEER ALMA Large Program to study disc kinematics of Herbig discs
+          - Presenting my research in talks and posters at conferences and during research stays with collaborators
+          - Giving outreach talks and tours through the ESO Supernova planetarium
+
+      - company: Max Planck Institute for Astronomy
+        position: Guest scientific visitor
+        location: Heidelberg, Germany
+        start_date: 2024-09
+        end_date: 2025-09
+
+      - company: Observatoire de la Côte d'Azur (ERC Protoplanets, group of Dr. Myriam Benisty)
+        position: PhD student
+        location: Nice, France
+        start_date: 2022-04
+        end_date: 2025-09
+        highlights:
+          - Studied the kinematics of planet-forming discs with ALMA via molecular lines to search for embedded protoplanets
+          - First-author paper on a kinematically detected planet candidate in a transition disc
+          - Co-lead of the kinematics analysis team in the exoALMA collaboration
+          - Second first-author paper on rotation curves and the alignment of continuum with pressure substructures in the exoALMA disc sample
+
+      - company: Max Planck Institute for Astronomy (group of Dr. Paola Pinilla)
+        position: Master thesis
+        location: Heidelberg, Germany
+        start_date: 2020-11
+        end_date: 2022-02
+        highlights:
+          - Studied the effects of pressure bumps on the observational properties of protoplanetary discs, such as their radius, luminosity and spectral index
+          - Ran dust-disc evolution models with DustPy and radiative transfer calculations with RADMC-3D
+          - Published in Astronomy & Astrophysics in December 2022
+
+      - company: Hotel Polisina
+        position: Apprenticeship, fully trained hotel clerk
+        location: Ochsenfurt, Germany
+        start_date: 2008-09
+        end_date: 2011-07
+        highlights:
+          - Trained in all stations of the hotel, with a focus on service and reception
+          - Completed the apprenticeship with several awards
+
+    Observing proposals:
+      - bullet: "Principal investigator of five accepted ALMA proposals (Cycles 9, 10, 12 and 13)"
+      - bullet: "Co-investigator on 15 further accepted proposals with ALMA, the VLT (CRIRES+, ERIS, SPHERE) and JWST/MIRI"
+
+    Community service:
+      - bullet: "**2022 – present:** ALMA proposal reviewer (distributed peer review)"
+      - bullet: "**2026 – present:** ALMA Regional Centre at ESO, development of spectral templates for the ALMA Wideband Sensitivity Upgrade"
+      - bullet: "**2026:** Local organizing committee, ESO Expanding Horizons workshop"
+      - bullet: "**2026:** Student advisor, ESO Summer Research Programme"
+      - bullet: "**2024:** Graduate student advisor (UGA), France"
+      - bullet: "**2024:** Outreach at the Nuit Coupoles Ouvertes, Calern telescope site, France"
+      - bullet: "**2023:** Local organizing committee, exoALMA collaboration workshop in Nice"
+      - bullet: "**2022 – 2023:** Organizer of the disc journal club at OCA, Nice"
+      - bullet: "**2020 – 2023:** Member and co-founder, Europeans for Climate Association, Heidelberg"
+      - bullet: "**2019 – 2021:** Press spokesperson and co-founder, Extinction Rebellion Heidelberg"
+
     Skills:
-      - name: Research
-        keywords:
-          - planet formation
-          - protoplanetary discs
-          - ALMA
+      - name: Data reduction
+        keywords: "ALMA self-calibration, continuum and line imaging of data cubes with CASA, data visualization with CARTA"
+      - name: Modelling and analysis
+        keywords: "DISCMINER (expert user and contributor), EDDY, DISKSURF, GOFISH, DustPy, RADMC-3D"
+      - name: Programming
+        keywords: "Python, Bash, SLURM"
+
+    Languages:
+      - name: German
+        summary: "Native"
+      - name: English
+        summary: "C2"
+      - name: French
+        summary: "B2"
+      - name: Swedish
+        summary: "A2"

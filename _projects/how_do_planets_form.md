@@ -3,7 +3,7 @@ layout: page
 title: how do planets form?
 description: from a cloud of gas and dust to a planetary system
 img: assets/img/outreach_planet_formation.jpg
-importance: 1
+importance: 3
 category: explainers
 ---
 

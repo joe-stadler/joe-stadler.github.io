@@ -3,7 +3,7 @@ layout: page
 title: seeing planet-forming discs with ALMA
 description: how a telescope in the Chilean Andes images the birthplaces of planets
 img: assets/img/outreach_alma.jpg
-importance: 2
+importance: 4
 category: explainers
 ---
 

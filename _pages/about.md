@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Astronomer · planet formation with ALMA
+subtitle: Postdoctoral Fellow · European Southern Observatory (ESO), Garching
 
 profile:
   align: right
@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- TODO: add your institution / position to the subtitle above and to this text. -->
+I'm Jochen Stadler, a postdoctoral fellow at the [European Southern Observatory](https://www.eso.org/) (ESO) in Garching near Munich. I study how planets form. With [ALMA](https://www.almaobservatory.org/) I observe the gas in the discs around young stars, and I follow the motion of molecular gas to look for the subtle signs that young planets leave in their birth discs. I'm also interested in how the kinematics and the chemistry of these discs fit together.
 
-I'm Jochen Stadler, an astronomer interested in how planets form. Young stars are surrounded by discs of gas and dust, and it is inside these discs that planets are born. I study them with [ALMA](https://www.almaobservatory.org/), the Atacama Large Millimeter/submillimeter Array, which can resolve rings, gaps and spirals in the dust and trace the gas and molecules that planets are built from.
+I did my PhD at the Observatoire de la Côte d'Azur in Nice with Myriam Benisty (2022–2025), after studying physics at Heidelberg University. I'm part of the exoALMA collaboration, where I co-led the kinematics analysis team, and of the CHEER ALMA Large Program on Herbig discs.
 
-This site collects my [publications]({{ '/publications/' | relative_url }}), my [CV]({{ '/cv/' | relative_url }}) and [outreach]({{ '/outreach/' | relative_url }}) material for anyone curious about how planets come to be.
+Beyond research, I give planetarium shows at the ESO Supernova and I'm part of Astronomers for Planet Earth. You can find my [publications]({{ '/publications/' | relative_url }}), my [CV]({{ '/cv/' | relative_url }}) and my [outreach]({{ '/outreach/' | relative_url }}) activities on this site.
