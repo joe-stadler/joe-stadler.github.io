@@ -21,6 +21,7 @@ category: explainers
 ### 2025
 
 - **September:** PhD thesis defence *The Dynamics of Planet Formation*. Observatoire de la Côte d'Azur, Nice, France
+- **March:** exoALMA Wave 2 workshop. LOC member. Max Planck Institute for Astronomy, Heidelberg, Germany
 - **February:** PSF Coffee. Contributed talk. Max Planck Institute for Astronomy, Heidelberg, Germany
 
 ### 2024
