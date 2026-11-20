@@ -2,8 +2,8 @@
 layout: page
 title: conference and seminar talks
 description: talks, posters and workshops
-img: assets/img/outreach_talks.jpg
-importance: 5
+img: assets/img/outreach_talks_photo.jpg
+importance: 1
 category: explainers
 ---
 
@@ -14,6 +14,7 @@ category: explainers
 - **November:** International conference. ESO Bridging Horizons. Contributed panel discussion on "How to face the climate crisis". ESO, Garching, Germany
 - **July:** International conference *Discs on the Exe*. Contributed talk. University of Exeter, UK
 - **July:** Science seminar. Contributed talk. University College London, UK
+- **May:** International workshop *Planet Formation across various Environments and Epochs*. Contributed talk. MIAPbP, Garching, Germany
 - **May:** Science seminar (online). Invited talk. UCL Mullard Space Science Laboratory, Holmbury St Mary, UK
 - **March:** Lunch talk. Invited talk. Leiden Observatory, The Netherlands
 

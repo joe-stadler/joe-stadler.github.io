@@ -5,7 +5,9 @@ Usage (from the repository folder):
     python3 bin/clean_scix_bib.py ~/Downloads/export-bibtex.bib _bibliography/papers.bib
 
 Papers listed in bin/selected_keys.txt (one SciX bibcode per line) are shown on the home page.
+Extra fields per paper (for example a link button) go in bin/bib_overrides.json.
 """
+import json
 import re
 import sys
 from pathlib import Path
@@ -32,6 +34,11 @@ def main(src, dst):
     if sel_file.exists():
         selected = {l.strip() for l in sel_file.read_text().splitlines() if l.strip() and not l.startswith("#")}
 
+    overrides = {}
+    ov_file = here / "bib_overrides.json"
+    if ov_file.exists():
+        overrides = json.loads(ov_file.read_text(encoding="utf-8"))
+
     text = Path(src).read_text(encoding="utf-8")
     out = ["---", "---", ""]
     n = 0
@@ -56,6 +63,8 @@ def main(src, dst):
             fields["arxiv"] = "{" + eprint + "}"
         if key in selected:
             fields["selected"] = "{true}"
+        for k, v in overrides.get(key, {}).items():
+            fields[k.lower()] = "{" + v + "}"
         lines = ["@%s{%s," % (etype, key.replace("&", "").replace(".", "_"))]
         lines += ["  %s = %s," % (k, v) for k, v in fields.items() if k not in DROP]
         lines[-1] = lines[-1].rstrip(",")

@@ -1,6 +1,6 @@
 # SciX bibcodes of papers to show on the home page (one per line)
-2026arXiv260905230V
 2026A&A...707A.160S
 2025ApJ...984L..11S
 2023A&A...670L...1S
 2022A&A...668A.104S
+2025PhDT........95S

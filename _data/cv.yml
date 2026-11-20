@@ -3,7 +3,7 @@ cv:
   label: Postdoctoral Fellow, European Southern Observatory (ESO)
   location: Garching bei München, Germany
   image: ""
-  summary: Astronomer working on planet formation with ALMA. I study the kinematics and chemistry of planet-forming discs to find young planets in the making. My full list of papers is on the publications page.
+  summary: Astronomer working on planet formation with ALMA. I study the kinematics and chemistry of planet-forming disks to find young planets in the making. My full list of papers is on the publications page.
 
   social_networks:
     - network: GitHub
@@ -47,8 +47,8 @@ cv:
         location: Garching bei München, Germany
         start_date: 2025-11
         highlights:
-          - Investigating the interplay between the kinematics and chemistry of planet-forming discs with ALMA via molecular lines
-          - Part of the CHEER ALMA Large Program to study disc kinematics of Herbig discs
+          - Investigating the interplay between the kinematics and chemistry of planet-forming disks with ALMA via molecular lines
+          - Part of the CHEER ALMA Large Program to study disk kinematics of Herbig disks
           - Presenting my research in talks and posters at conferences and during research stays with collaborators
           - Giving outreach talks and tours through the ESO Supernova planetarium
 
@@ -64,10 +64,10 @@ cv:
         start_date: 2022-04
         end_date: 2025-09
         highlights:
-          - Studied the kinematics of planet-forming discs with ALMA via molecular lines to search for embedded protoplanets
-          - First-author paper on a kinematically detected planet candidate in a transition disc
+          - Studied the kinematics of planet-forming disks with ALMA via molecular lines to search for embedded protoplanets
+          - First-author paper on a kinematically detected planet candidate in a transition disk
           - Co-lead of the kinematics analysis team in the exoALMA collaboration
-          - Second first-author paper on rotation curves and the alignment of continuum with pressure substructures in the exoALMA disc sample
+          - Second first-author paper on rotation curves and the alignment of continuum with pressure substructures in the exoALMA disk sample
 
       - company: Max Planck Institute for Astronomy (group of Dr. Paola Pinilla)
         position: Master thesis
@@ -75,8 +75,8 @@ cv:
         start_date: 2020-11
         end_date: 2022-02
         highlights:
-          - Studied the effects of pressure bumps on the observational properties of protoplanetary discs, such as their radius, luminosity and spectral index
-          - Ran dust-disc evolution models with DustPy and radiative transfer calculations with RADMC-3D
+          - Studied the effects of pressure bumps on the observational properties of protoplanetary disks, such as their radius, luminosity and spectral index
+          - Ran dust-disk evolution models with DustPy and radiative transfer calculations with RADMC-3D
           - Published in Astronomy & Astrophysics in December 2022
 
       - company: Hotel Polisina
@@ -100,6 +100,6 @@ cv:
       - bullet: "**2024:** Graduate student advisor (UGA), France"
       - bullet: "**2024:** Outreach at the Nuit Coupoles Ouvertes, Calern telescope site, France"
       - bullet: "**2023:** Local organizing committee, exoALMA collaboration workshop in Nice"
-      - bullet: "**2022 – 2023:** Organizer of the disc journal club at OCA, Nice"
+      - bullet: "**2022 – 2023:** Organizer of the disk journal club at OCA, Nice"
       - bullet: "**2020 – 2023:** Member and co-founder, Europeans for Climate Association, Heidelberg"
       - bullet: "**2019 – 2021:** Press spokesperson and co-founder, Extinction Rebellion Heidelberg"
