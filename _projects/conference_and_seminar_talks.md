@@ -11,7 +11,7 @@ category: explainers
 
 ### 2026
 
-- **November:** International conference. ESO Bridging Horizons. Contributed panel discussion on "How to face the climate crisis". ESO, Garching, Germany
+- **November:** International conference. *ESO Bridging Horizons*. Leading panel discussion on "How to face the climate crisis". ESO, Garching, Germany
 - **July:** International conference *Discs on the Exe*. Contributed talk. University of Exeter, UK
 - **July:** Science seminar. Contributed talk. University College London, UK
 - **May:** International workshop *Planet Formation across various Environments and Epochs*. Contributed talk. MIAPbP, Garching, Germany
