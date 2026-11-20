@@ -11,13 +11,24 @@ category: explainers
 
 ### 2026
 
-- **November:** International conference <small>ESO Bridging Horizons in exoplanet population studies</small>. Contributed panel discussion on "How to face the climate crisis". ESO, Garching, Germany
+- **November:** International conference. ESO Bridging Horizons. Contributed panel discussion on "How to face the climate crisis". ESO, Garching, Germany
 - **July:** International conference *Discs on the Exe*. Contributed talk. University of Exeter, UK
-- **July:** Science seminar. Invited talk. University College London, UK
+- **July:** Science seminar. Contributed talk. University College London, UK
 - **May:** Science seminar (online). Invited talk. UCL Mullard Space Science Laboratory, Holmbury St Mary, UK
+- **March:** Lunch talk. Invited talk. Leiden Observatory, The Netherlands
+
+### 2025
+
+- **September:** PhD thesis defence *The Dynamics of Planet Formation*. Observatoire de la Côte d'Azur, Nice, France
+- **February:** PSF Coffee. Contributed talk. Max Planck Institute for Astronomy, Heidelberg, Germany
 
 ### 2024
 
+- **November:** Science seminar. Invited talk. Institute of Astronomy, Cambridge Universtiy, UK
+- **November:** Science seminar. Contributed talk. UCL Mullard Space Science Laboratory, Holmbury St Mary, UK
+- **November:** Science seminar. Contributed talk. Anton Pannekoek Observatory, Amsterdam, The Netherlands
+- **November:** Science seminar. Contributed talk. Leiden Observatory, The Netherlands
+- **October:** Informal discussion. Contributed talk. ESO, Garching, Germany
 - **July:** International conference *New Heights in Planet Formation*. Contributed talk. ESO, Garching, Germany
 - **June:** International conference *Formation of the Protosolar Disk and of its Planetesimals*. Invited talk. Collège de France, Paris, France
 - **June:** ERC workshop *Disk and Planet Formation*. Contributed talk. Varenna, Italy
