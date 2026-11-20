@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Joe, a postdoctoral fellow at the [European Southern Observatory](https://www.eso.org/) (ESO) in Garching near Munich. I study how planets form. With [ALMA](https://www.almaobservatory.org/) I observe the gas and dust in the disks around newborn stars, and I follow the motion of molecular gas to look for the subtle signs that young planets leave in their birth disks. I'm also interested in how the kinematics and the chemistry of these disks fit together.
+I'm Joe, a postdoctoral fellow at the [European Southern Observatory](https://www.eso.org/) (ESO) in Garching near Munich. In my research, I study how planets form. With the Atacama Large Milimeter Array ([ALMA](https://www.almaobservatory.org/)) I observe the gas and dust in the disks around newborn stars. In particular, I observe the motion of molecular gas to look for the subtle dynamcial signs that young embeded protoplanets imprint on their natal disks. I'm also interested in how the kinematics and the chemistry of these disks fit together.
 
 I did my PhD at the Observatoire de la Côte d'Azur in Nice with Myriam Benisty (2022–2025), after studying physics at Heidelberg University. I'm part of the [exoALMA](https://www.exoalma.com) collaboration, where I co-led the kinematics analysis team, and of the CHEER ALMA Large Program on the chemistry of Herbig disks.
 
