@@ -10,7 +10,7 @@ related_posts: false
 
 ### The question
 
-**How do dynamically evolving gas pressure bumps affect the observational properties of protoplanetary disks? Can we observationally distinguish between planetary versus zonal-flow-origin of pressure bumps?**
+> *How do dynamically evolving gas pressure bumps affect the observational properties of protoplanetary disks? Can we observationally distinguish between planetary versus zonal-flow-origin of pressure bumps?*
 
 ### Context
 
@@ -27,10 +27,10 @@ We perform one-dimensional **gas and dust evolution simulations**, setting up mo
 
 ### What we found
 
-We find that the outermost pressure bump determines the disk's dust size across different millimeter wavelengths and confirm that the observed dust masses of disks with optically thick inner bumps (<40 au) are underestimated by up to an order of magnitude. Our modeled **dust traps need to form early** (a few ten-thousand years), **fast** (on gas viscous timescales), **and must be long-lived** (a few million years) to obtain the observed high millimeter luminosities and low spectral indices of disks. While the planetary bump models can reproduce these observables irrespective of the opacity prescription, the highest opacities are needed for the dynamic bump model, which mimics zonal flows in disks, to be in line with observations.
+The outermost pressure bump determines the disk's dust size across different millimeter wavelengths and the observed dust masses of disks with optically thick inner bumps (<40 au) are underestimated by up to an order of magnitude. Our modeled **dust traps need to form early** (a few ten-thousand years), **fast** (on gas viscous timescales), **and must be long-lived** (a few million years) **to be consistent with the observations** of high millimeter luminosities and low spectral indices of disks. While the planetary bump models can reproduce these observables irrespective of the opacity prescription, the highest opacities are needed for the dynamic bump model, which mimics zonal flows in disks, to be in line with observations.
 
 ### Conclusions and what comes next
 
-**Our findings favor the planetary over the zonal flow-origin of pressure bumps** and support the idea that planet formation should already occur in early Class 0/I stages of circumstellar disks (after a few ten- to hundred thousand years). The determination of the disk's effective size through its outermost pressure bump also delivers a possible answer to why disks in recent low-resolution surveys appear to have the same sizes across different millimeter wavelengths. The study of disk gas kinematics via molecular line observations with ALMA can help to constrain the properties of these gas pressure bumps (see [exoALMA VI]({{ '/blog/2025/exoalma-vi/' | relative_url }})).
+**Our findings favor the planetary over the zonal flow origin of pressure bumps** and support the idea that planet formation should already occur in early Class 0/I stages of circumstellar disks (after a few ten- to hundred thousand years). The determination of the disk's effective size through its outermost pressure bump also delivers a possible answer to why disks in recent low-resolution surveys appear to have the same sizes across different millimeter wavelengths. The study of disk gas kinematics via molecular line observations with ALMA can help to constrain the properties of these gas pressure bumps (see [exoALMA VI]({{ '/blog/2025/exoalma-vi/' | relative_url }})).
 
-#### **The paper:** Stadler, Gárate, Pinilla et al. (2022): *The impact of dynamic pressure bumps on the observational properties of protoplanetary disks*, Astronomy & Astrophysics 668, A104 (first author). [arXiv](https://arxiv.org/abs/2209.07931) · [DOI](https://doi.org/10.1051/0004-6361/202243338)
+##### **The paper:** Stadler, Gárate, Pinilla et al. (2022): *The impact of dynamic pressure bumps on the observational properties of protoplanetary disks*, Astronomy & Astrophysics 668, A104 (first author). [arXiv](https://arxiv.org/abs/2209.07931) · [DOI](https://doi.org/10.1051/0004-6361/202243338)
