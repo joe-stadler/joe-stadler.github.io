@@ -29,8 +29,8 @@ cv:
         start_date: 2019-10
         end_date: 2021-11
         highlights:
-          - "Final grade: 1.2 (German scale, 1.0 is best)"
-          - "Courses included theoretical astrophysics, principles of radio astronomy, seminar on extrasolar planets, radiative transfer in the atmosphere"
+          - "Specialized in environmental physics and astronomy"
+          - "Courses included theoretical astrophysics, principles of radio astronomy, seminar on extrasolar planets, radiative transfer in the Earth's atmosphere, climate physics"
 
       - institution: Universität Heidelberg
         location: Heidelberg, Germany
@@ -39,8 +39,8 @@ cv:
         start_date: 2015-10
         end_date: 2019-07
         highlights:
-          - "Final grade: 1.6 (German scale, 1.0 is best)"
           - "Degree covering all areas of physics, with a focus on theoretical physics and a specialization in astronomy and astrophysics"
+          - "Erasmus exchange for one year in 2017/2018 at the University of Uppsala, Sweden"
 
     Experience:
       - company: European Southern Observatory (ESO)
