@@ -33,4 +33,8 @@ The outermost pressure bump determines the disk's dust size across different mil
 
 **Our findings favor the planetary over the zonal flow origin of pressure bumps** and support the idea that planet formation should already occur in early Class 0/I stages of circumstellar disks (after a few ten- to hundred thousand years). The determination of the disk's effective size through its outermost pressure bump also delivers a possible answer to why disks in recent low-resolution surveys appear to have the same sizes across different millimeter wavelengths. The study of disk gas kinematics via molecular line observations with ALMA can help to constrain the properties of these gas pressure bumps (see [exoALMA VI]({{ '/blog/2025/exoalma-vi/' | relative_url }})).
 
-##### **The paper:** Stadler, Gárate, Pinilla et al. (2022): *The impact of dynamic pressure bumps on the observational properties of protoplanetary disks*, Astronomy & Astrophysics 668, A104 (first author). [arXiv](https://arxiv.org/abs/2209.07931) · [DOI](https://doi.org/10.1051/0004-6361/202243338)
+##### **The paper** 
+**Stadler, Gárate, Pinilla et al. (2022)**: *The impact of dynamic pressure bumps on the observational properties of protoplanetary disks*, Astronomy & Astrophysics 668, A104 (first author). [arXiv](https://arxiv.org/abs/2209.07931) · [DOI](https://doi.org/10.1051/0004-6361/202243338)
+
+#### Personal context
+This publicaiton originated from my Masters thesis at the Max Planck Institue for Astronomy ([MPIA](https://www.mpia.de/en)) in Heidelberg within the [*The genesis of planets*](https://paola-pinilla.com/groupMPIA.html) research group of Prof. Paola Pinilla and under co-supervision of Dr. Matthias Gárate.
