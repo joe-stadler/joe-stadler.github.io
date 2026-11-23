@@ -37,4 +37,4 @@ The outermost pressure bump determines the disk's dust size across different mil
 **Stadler, Gárate, Pinilla et al. (2022)**: *The impact of dynamic pressure bumps on the observational properties of protoplanetary disks*, Astronomy & Astrophysics 668, A104 · [arXiv](https://arxiv.org/abs/2209.07931) · [DOI](https://doi.org/10.1051/0004-6361/202243338)
 
 ##### Personal context
-This publicaiton originated from my Masters thesis at the Max Planck Institue for Astronomy ([MPIA](https://www.mpia.de/en)) in Heidelberg within the [The genesis of planets](https://paola-pinilla.com/groupMPIA.html) research group of Prof. Paola Pinilla and under co-supervision of Dr. Matthias Gárate.
+This publication originated from my Masters thesis at the Max Planck Institute for Astronomy ([MPIA](https://www.mpia.de/en)) in Heidelberg within the [The genesis of planets](https://paola-pinilla.com/groupMPIA.html) research group of Prof. Paola Pinilla and under co-supervision of Dr. Matthias Gárate.
