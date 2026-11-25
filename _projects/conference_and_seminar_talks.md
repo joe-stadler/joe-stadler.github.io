@@ -17,10 +17,12 @@ category: explainers
 - **May:** International workshop *Planet Formation across various Environments and Epochs*. Contributed talk. MIAPbP, Garching, Germany
 - **May:** Science seminar (online). Invited talk. UCL Mullard Space Science Laboratory, Holmbury St Mary, UK
 - **March:** Lunch talk. Invited talk. Leiden Observatory, The Netherlands
+- **March:** SPF seminar. Contributed talk on *exoALMA publications results*. ESO, Garching, Germany
 
 ### 2025
 
-- **September:** PhD thesis defence *The Dynamics of Planet Formation*. Observatoire de la Côte d'Azur, Nice, France
+- **December:** Wine & Cheese Seminar. Contributed talk. ESO, Garching, Germany
+- **September:** PhD thesis defence: *The Dynamics of Planet Formation*. Observatoire de la Côte d'Azur, Nice, France
 - **March:** exoALMA Wave 2 workshop. LOC member. Max Planck Institute for Astronomy, Heidelberg, Germany
 - **February:** PSF Coffee. Contributed talk. Max Planck Institute for Astronomy, Heidelberg, Germany
 
